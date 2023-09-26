@@ -1,0 +1,97 @@
+
+/*Base del index general*/
+
+*{
+    font-family: sans-serif;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+/*Header y sus atributos*/
+
+header{
+    background-image: url(./Imagenes/JPG/1317346.png);
+    padding: 8px;
+    margin: 0px;
+    justify-items: center;
+    align-items: center;
+}
+
+h1{
+    color: white;
+    font-style:italic;
+}
+
+.Line{
+    width: 4%;
+}
+
+.Dehya-G{
+    width: 70px;
+    height: 70px;
+
+}
+
+.Shenhe-G{
+    width: 70px;
+    height: 70px;
+}
+
+.Tenor3-2{
+    width: 1465px;
+    height:4px;
+    border-radius: 10px;
+
+}
+
+/*Background*/
+
+body{
+    background-image: url(./Imagenes/JPG/cropped-1920-1080-1317068.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.main {
+    justify-items: center;
+}
+
+/*Imagenes (3 actualmente)*/
+
+.Semanales{
+    width: 307px;
+    height: 732px;
+    border-radius: 10px;
+    margin-right: 10px;
+    border-style: groove;
+    border-color: darkgoldenrod;
+    
+
+}
+
+.Talentos{
+    width: 500px;
+    height: 666px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-bottom: 25px;
+    margin-right: 5px;
+    border-style: groove;
+    border-color: yellow;
+    
+}
+
+.Forja{
+    width: 320px;
+    height: 732px;
+    border-radius: 10px;
+    margin-left: 10px;
+    border-style: groove;
+    border-color: darkblue;
+    
+}
+
